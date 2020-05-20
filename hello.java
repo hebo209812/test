@@ -5,3 +5,4 @@ publica static void main(){
 }
 test
 ------
+fff
