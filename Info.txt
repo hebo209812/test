@@ -1,0 +1,35 @@
+
+VPN Root密码：
+74MG20ZZzU8kyO0cnr
+
+-------------------------------------------------------------
+
+SSR信息：
+
+ 用户 [hjian209] 的配置信息：
+
+ I  P	    : 107.174.101.156
+ 端口	    : 2345
+ 密码	    : 74MG20ZZzU8
+ 加密	    : aes-256-ctr
+ 协议	    : auth_aes128_md5
+ 混淆	    : plain
+ 设备数限制 : 0(无限)
+ 单线程限速 : 0 KB/S
+ 用户总限速 : 0 KB/S
+ 禁止的端口 : 无限制 
+
+ 已使用流量 : 上传: 0 B + 下载: 0 B = 0 B
+ 剩余的流量 : 819.21 TB 
+ 用户总流量 : 819.21 TB 
+
+ SSR   链接 : ssr://MTA3LjE3NC4xMDEuMTU2OjIzNDU6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY3RyOnBsYWluOk56Uk5Sekl3V2xwNlZUZw 
+ SSR 二维码 : http://doub.pw/qr/qr.php?text=ssr://MTA3LjE3NC4xMDEuMTU2OjIzNDU6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY3RyOnBsYWluOk56Uk5Sekl3V2xwNlZUZw 
+ 
+ 提示: 
+ 在浏览器中，打开二维码链接，就可以看到二维码图片。
+ 协议和混淆后面的[ _compatible ]，指的是 兼容原版协议/混淆
+ 
+ 
+ 上述操作信息来自：
+ https://www.textarea.com/vultr/shoubashou-jiao-ni-dajian-shadowsocksr-kexue-shangwang-dajian-ssr-jiaocheng-shiyong-yu-suoyou-linux-zhuji-1046/
