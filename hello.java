@@ -6,3 +6,4 @@ publica static void main(){
 test
 ------
 fff
+hello ,test github!
